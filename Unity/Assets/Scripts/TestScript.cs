@@ -239,12 +239,23 @@ public class TestScript : MonoBehaviour
         signalR.Connect();
 
     }
-    public  void Logout()
+    public void Logout()
     {
         string s = "";
-        signalR.Invoke("Logout",s);
+        StartCoroutine(LogoutCoroutine());
     }
+    private IEnumerator LogoutCoroutine()
+    {
+        using var www = UnityWebRequest.PostWwwForm($"{apiBaseUrl}/logout", "");
+        www.SetRequestHeader("Content-Type", "application/json");
+        yield return www.SendWebRequest();
 
+        signalR?.Stop();    
+        signalR = null;
+
+        jwtToken = null;
+
+    }
     public void CreateLobby(string groupName)
     {
         var json1 = new LobbyRequest

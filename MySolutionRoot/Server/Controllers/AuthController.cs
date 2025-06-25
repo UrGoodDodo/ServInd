@@ -150,5 +150,15 @@ namespace Server.Controllers
                 JwtToken = tokenString
             });
         }
+
+        [HttpPost("logout")]
+        public IActionResult Logout()
+        {
+            return Ok(new
+            {
+                Success = true,
+                Message = "Logout complete, token no longer works on client"
+            });
+        }
     }
 }

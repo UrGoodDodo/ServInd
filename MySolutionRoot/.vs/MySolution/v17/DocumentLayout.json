@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\",
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|solutionrelative:server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\servind\\mysolutionroot\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|solutionrelative:server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\servind\\mysolutionroot\\server.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\servind\\mysolutionroot\\server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|solutionrelative:server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\servind\\mysolutionroot\\server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\servind\\mysolutionroot\\server.tests\\server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -31,36 +35,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAgwJ0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:08:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainHub.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server\\MainHub.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server\\MainHub.cs",
               "RelativeDocumentMoniker": "Server\\MainHub.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server\\MainHub.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server\\MainHub.cs",
               "RelativeToolTip": "Server\\MainHub.cs",
-              "ViewState": "AgIAACgBAAAAAAAAAAAgwGYBAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAJQAAAAAAAAAAADwvxkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T13:27:50.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainHubTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
               "RelativeDocumentMoniker": "Server.Tests\\Hubs\\MainHubTests.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
               "RelativeToolTip": "Server.Tests\\Hubs\\MainHubTests.cs",
               "ViewState": "AgIAAL0CAAAAAAAAAAA0wMwCAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:58:59.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:58:59.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Server.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
               "RelativeDocumentMoniker": "Server.Tests\\Server.Tests.csproj",
-              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
               "RelativeToolTip": "Server.Tests\\Server.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -68,15 +84,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Server.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
               "RelativeToolTip": "Server.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:51:43.832Z"
+              "WhenOpened": "2025-06-22T12:51:43.832Z",
+              "EditorCaption": ""
             }
           ]
         }
