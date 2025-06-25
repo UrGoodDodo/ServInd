@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96DE3D4-4C20-4AE8-9051-7AD96488B234}|Server\\Server.csproj|solutionrelative:server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\hubs\\mainhubtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\\u043D\u043E\u0432\u043E\u0435\\mysolutionroot\\server.tests\\server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{484E0E94-7E89-4B40-88A5-D8F9B6A54999}|Server.Tests\\Server.Tests.csproj|solutionrelative:server.tests\\server.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server\\MainHub.cs",
+              "RelativeDocumentMoniker": "Server\\MainHub.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server\\MainHub.cs",
+              "RelativeToolTip": "Server\\MainHub.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAgwGYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:27:50.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainHubTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
+              "RelativeDocumentMoniker": "Server.Tests\\Hubs\\MainHubTests.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Hubs\\MainHubTests.cs",
+              "RelativeToolTip": "Server.Tests\\Hubs\\MainHubTests.cs",
+              "ViewState": "AgIAAL0CAAAAAAAAAAA0wMwCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:58:59.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
+              "RelativeDocumentMoniker": "Server.Tests\\Server.Tests.csproj",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\Server.Tests.csproj",
+              "RelativeToolTip": "Server.Tests\\Server.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T12:58:36.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Server.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\\u041D\u043E\u0432\u043E\u0435\\MySolutionRoot\\Server.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Server.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:51:43.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

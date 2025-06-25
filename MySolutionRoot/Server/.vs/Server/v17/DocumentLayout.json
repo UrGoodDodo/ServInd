@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\gameturntimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:gameturntimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\labind\\mysolutionroot\\server\\models\\lobbyplayersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF3081-FC50-466E-980E-BCC162EE56AF}|Server.csproj|solutionrelative:models\\lobbyplayersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-22T16:59:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-22T16:27:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameTurnTimerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\GameTurnTimerService.cs",
+              "RelativeDocumentMoniker": "GameTurnTimerService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\GameTurnTimerService.cs",
+              "RelativeToolTip": "GameTurnTimerService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:43:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Models\\GameSession.cs",
+              "RelativeDocumentMoniker": "Models\\GameSession.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Models\\GameSession.cs",
+              "RelativeToolTip": "Models\\GameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:28:23.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LobbyPlayersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Models\\LobbyPlayersResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LobbyPlayersResponse.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Models\\LobbyPlayersResponse.cs",
+              "RelativeToolTip": "Models\\LobbyPlayersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:11:40.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\MainHub.cs",
+              "RelativeDocumentMoniker": "MainHub.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\MainHub.cs",
+              "RelativeToolTip": "MainHub.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAxwHwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:18:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\LabInd\\MySolutionRoot\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:07:57.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
