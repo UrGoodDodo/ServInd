@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Server\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\2 \u0441\u0435\u043C\\\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\git\\ServInd\\MySolutionRoot\\Server\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Server\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAgwJ0AAAANAAAA",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwJYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:08:39.966Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Server\\MainHub.cs",
               "ViewState": "AQIAAJQAAAAAAAAAAADwvxkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:27:50.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:27:50.891Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Server.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:51:43.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:51:43.832Z"
             }
           ]
         }
